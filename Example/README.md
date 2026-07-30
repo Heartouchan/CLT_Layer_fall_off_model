@@ -7,9 +7,13 @@ To run fire-induced CLT layer fall-off simulation in ABAQUS, three files are pro
 **layers.json** is to specify the parameters for heat transfer simulation and layer deletion. 
 
 *watch*: The element set name that can trigger the delamination. Typically, it refers to the second layer.
+
 *delete*: The element set name that should be deleted, i.e., the exposed layer.
+
 *surface*: The bond line surface name.
+
 *tcrit*: Critical bond line temperature.
+
 *dur*: Maximum step of the simulation. 
 
 **Delamination1** is the input file of ABAQUS, defining a five layer CLT model for heat transfer analysis.
