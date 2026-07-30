@@ -1,7 +1,0 @@
-To run fire-induced CLT layer fall-off simulation in ABAQUS, three files are provided.
-
-## 📌 Usage
-
-'_Delamination_control.py_' is a python program controlling the deletion of the laminate once the temperature at the bond line reaches critical bond line temperature.
-
-'_layers.json_' is to specify the parameters for heat transfer simulation and layer deletion. 
