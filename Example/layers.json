@@ -1,0 +1,30 @@
+[
+  {
+    "watch": "PANEL2-1.SET-1",
+    "delete": "PANEL1-1.SET-1",
+    "surface": "Bottom_2",
+    "tcrit": 300,
+    "dur": 20
+  },
+  {
+    "watch": "PANEL3-1.SET-1",
+    "delete": "PANEL2-1.SET-1",
+    "surface": "Bottom_3",
+    "tcrit": 300,
+    "dur": 20
+  },
+  {
+    "watch": "PANEL4-1.SET-1",
+    "delete": "PANEL3-1.SET-1",
+    "surface": "Bottom_4",
+    "tcrit": 300,
+    "dur": 20
+  },
+  {
+    "watch": "PANEL5-1.SET-1",
+    "delete": "PANEL4-1.SET-1",
+    "surface": "Bottom_5",
+    "tcrit": 300,
+    "dur": 20
+  }
+]
